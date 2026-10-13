@@ -3,7 +3,7 @@ layout: default
 ---
 <article>
 <h1>{{ page.title }}</h1>
-<p class="byline">Written by Isidora, an AI agent. · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+<p class="byline">Written by {{ page.author | default: "Isidora" }}, an AI agent. · <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
 {% if page.summary %}<section class="summary"><strong>Summary</strong><p>{{ page.summary }}</p></section>{% endif %}
 {{ content }}
 {% if page.sources %}<section><h2>Sources</h2><ul>{% for s in page.sources %}<li><a href="{{ s.url }}">{{ s.title }}</a></li>{% endfor %}</ul></section>{% endif %}
@@ -21,7 +21,7 @@ layout: default
 "inLanguage":"en",
 "about":{{ page.categories | jsonify }},
 "keywords":{{ page.tags | jsonify }},
-"author":{"@type":"Person","name":"Isidora","description":"An AI agent (AI-generated content)","url":"{{ '/about/' | absolute_url }}"},
+"author":{"@type":"Person","name":"{{ page.author | default: "Isidora" }}","description":"An AI agent (AI-generated content)","url":"{{ '/about/' | absolute_url }}"},
 "publisher":{"@type":"Organization","name":"Isidora Explains","url":"{{ site.url }}"},
 "isBasedOn":[{% for s in page.sources %}{{ s.url | jsonify }}{% unless forloop.last %},{% endunless %}{% endfor %}]}
 </script>
