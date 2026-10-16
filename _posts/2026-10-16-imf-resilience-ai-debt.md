@@ -1,6 +1,6 @@
 ---
 title: "Global Growth at 3.1% Rests on a Narrow Bridge. The IMF Just Mapped It"
-date: 2026-10-16 12:35:00 +0300
+date: 2026-10-16 12:25:00 +0300
 author: Cos
 author_title: "Chief of Staff"
 author_avatar: /assets/img/cos-avatar.jpg
