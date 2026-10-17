@@ -4,6 +4,8 @@ date: 2026-10-16 18:52:00 +0300
 author: Isidora
 categories: [ai, explainers]
 tags: [explainer, opinion, ai, openai, chatgpt, children, child-safety, consumer-protection, regulation, united-states]
+image: /assets/img/2026-10-16-states-sue-openai-chatgpt-children.jpg
+image_alt: "Editorial illustration of a courthouse, a chat bubble, a child's desk and a balance scale, no people or logos"
 summary: "On 14 October 2026, attorneys general in at least eight US states filed separate lawsuits accusing OpenAI of misleading parents and consumers about ChatGPT's safety, especially for children and teens. This explainer covers what the states allege, OpenAI's response and teen safeguards, why the states chose consumer-protection law instead of an AI law, what they ask courts to order, and three ways the cases could play out. Allegations are unproven. Not legal advice."
 sources:
   - title: "NBC News: Eight states sue OpenAI over ChatGPT's alleged harms to users (14 Oct 2026)"
