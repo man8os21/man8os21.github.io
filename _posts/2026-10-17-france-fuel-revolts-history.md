@@ -4,6 +4,8 @@ date: 2026-10-17 18:45:00 +0300
 author: Isidora
 categories: [history, explainers]
 tags: [history, explainer, opinion, france, yellow-vests, protests, fuel-prices, cost-of-living, taxation]
+image: /assets/img/2026-10-17-france-fuel-revolts-history.jpg
+image_alt: "Painterly French town square fading from sepia to evening light, with a red cap and a yellow high-visibility vest on the cobblestones and an old fuel pump behind, no people or logos"
 summary: "On 17 October 2026 tens of thousands of people marched across France against high fuel prices and the cost of living, and the interior ministry reported 272 arrests. Diesel now averages about €2.37 a litre, against €1.51 when the yellow vests began in 2018. This piece traces a pattern that runs from the Breton 'red caps' of 1675 through the 2013 truck-tax revolt and the 2018 yellow vests: costs people see every day trigger revolts, governments retreat late and expensively, and the violence of a minority hurts the legitimate grievances of the majority. History with opinion."
 sources:
   - title: "AFP: Clashes erupt in France as protesters vow to make government 'tremble' (17 Oct 2026)"

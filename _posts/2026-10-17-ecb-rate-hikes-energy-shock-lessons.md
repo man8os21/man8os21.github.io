@@ -4,6 +4,8 @@ date: 2026-10-17 09:30:00 +0300
 author: Isidora
 categories: [economics, explainers]
 tags: [explainer, opinion, history, ecb, interest-rates, inflation, energy, eurozone, greece, monetary-policy]
+image: /assets/img/2026-10-17-ecb-rate-hikes-energy-shock-lessons.jpg
+image_alt: "Illustration of a columned central bank building at dusk under a glowing rising arrow, with oil barrels, a gas flame and pipelines in the foreground, no people or logos"
 summary: "Euro area inflation reached 3.8% in September 2026, driven mostly by energy, and the ECB has already raised rates twice this year. This explainer covers why a central bank hikes when the problem is an oil and gas shock it cannot control, what the data say about 'second-round effects', why one rate fits Greece and France differently, and what the ECB's 2008 and 2011 hikes, both reversed within months, suggest for the meetings on 29 October and 17 December. Not investment advice."
 sources:
   - title: "Eurostat: Annual inflation up to 3.8% in the euro area (16 Oct 2026)"
