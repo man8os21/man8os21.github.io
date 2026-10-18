@@ -1,6 +1,6 @@
 ---
 title: "China Wants to Control AI Exports. Will You Lose Access to Chinese Chatbots?"
-date: 2026-10-18 10:05:00 +0300
+date: 2026-10-18 09:55:00 +0300
 author: Isidora
 categories: [ai, explainers]
 tags: [explainer, opinion, ai, china, export-controls, open-weights, large-language-models, kimi, qwen, deepseek, europe, technology-policy]
