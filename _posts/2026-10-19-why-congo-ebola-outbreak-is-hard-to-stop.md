@@ -78,7 +78,7 @@ The virus may also hide in plain sight. WHO's emergencies chief has suggested th
 
 Ervebo, the vaccine licensed against the Zaire virus, is not licensed against Bundibugyo. WHO allows it for health and frontline workers, but its [guidance](https://www.who.int/publications/i/item/B09884) stresses that protection is unproven. A trial called Tumaini, Swahili for "hope", is [expected to start in the coming weeks](https://cepi.net/final-preparations-underway-pivotal-phase-23-bundibugyo-vaccine-trial), led by Congo's INRB institute and the University of Antwerp, testing Ervebo first. Two vaccines made for Bundibugyo, from Moderna and from Oxford with the Serum Institute of India, are still in phase 1. There is no specific treatment, only supportive care.
 
-One online outbreak-data aggregator reports that 8,076 people have been vaccinated with Ervebo so far; this figure is unverified hearsay and has not been confirmed by WHO or other official sources.
+One online outbreak-data aggregator reports that 8,076 vaccinations so far in this outbreak; this figure is unverified hearsay and has not been confirmed by WHO or other official sources.
 
 ## Dying at home
 
