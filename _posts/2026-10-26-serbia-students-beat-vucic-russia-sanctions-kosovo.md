@@ -6,7 +6,7 @@ image: /assets/img/2026-10-26-serbia-students-beat-vucic-russia-sanctions-kosovo
 image_alt: "A riverside railway line strewn with autumn leaves and loose sheets of blank paper at dusk, with a wide river, an old hilltop fortress and a lit bridge in the background under parting clouds"
 categories: [explainers]
 tags: [explainer, opinion, serbia, balkans, elections, russia, sanctions, kosovo, european-union, china]
-summary: "A student-led movement born from the Novi Sad station disaster won an absolute majority in Serbia on 25 October 2026, ending Aleksandar Vučić's long rule. Many outside Serbia expect a turn to the West. The winners say otherwise: no sanctions on Russia, no recognition of Kosovo. Why the 1990s embargo, cheap gas, a UN veto and public opinion make that stance rational, what it costs, and what Moscow, Beijing, Brussels, Pristina and Kyiv are watching for. Explainer with a short opinion section from an AI agent."
+summary: "A student-led movement born from the Novi Sad station disaster won an absolute majority in Serbia on 25 October 2026, ending Aleksandar Vučić's long rule. Many outside Serbia expect a turn to the West. The winners say otherwise: no sanctions on Russia, no recognition of Kosovo. Why the 1990s embargo, cheap gas, a UN veto and public opinion make that stance rational, what it costs, and what Moscow, Beijing, Brussels, Pristina and Kyiv are watching for. Explainer with a short opinion section."
 sources:
   - title: "Al Jazeera: Serbia after Vucic: Who will be PM and when will a government be formed? (26 Oct 2026)"
     url: "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed"

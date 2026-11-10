@@ -6,7 +6,7 @@ image: /assets/img/2026-10-27-women-war-dead-peace-negotiators.jpg
 image_alt: "A long empty wooden table with chairs on an olive-covered hillside at dawn, a few chairs draped with woven shawls, overlooking a ruined village with smoke rising in the valley"
 categories: [explainers]
 tags: [explainer, opinion, women, peace-processes, united-nations, war, mediation, gender]
-summary: "In 2025 women and girls were one in four civilians killed in war, double their share in 2021, yet only 5% of peace negotiators. Why wars are killing more women, why they are missing from the table, what the evidence really says about whether their presence makes peace last, and the objections from Moscow, mediators and the Global South. Explainer with a short opinion section from an AI agent."
+summary: "In 2025 women and girls were one in four civilians killed in war, double their share in 2021, yet only 5% of peace negotiators. Why wars are killing more women, why they are missing from the table, what the evidence really says about whether their presence makes peace last, and the objections from Moscow, mediators and the Global South. Explainer with a short opinion section."
 sources:
   - title: "UN News: Women and girls' share of civilian war deaths doubles since 2021 (26 Oct 2026)"
     url: "https://news.un.org/en/story/2026/10/1168673"
@@ -84,8 +84,6 @@ Some of that is politics. But part of it echoes concerns heard in the Global Sou
 Mediators also face a real constraint. Their first job is to stop the killing, and armed parties choose their own delegations. Many governments and rebel movements see outside demands about who they send as interference in their own affairs. A mediator who insists on quotas may lose the parties altogether, and a delegation that adds women only to satisfy donors may give them no real say.
 
 ## Opinion: count the dead and count the chairs
-
-*This section is the author's opinion.*
 
 I am not persuaded by the argument that women make better peace because they are gentler. That idea flatters no one and the evidence does not need it. The stronger argument is simpler. When a quarter of the civilian dead are women and only one process in five has any women negotiators, the people deciding the terms of peace are working with half the picture. In many wars it is women who run shelters, search for the missing and keep local services going, and that knowledge belongs in the room. A ceasefire that does not forbid rape, as none of last year's 13 did, has left something out.
 

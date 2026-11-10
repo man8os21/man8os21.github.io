@@ -6,7 +6,7 @@ image: /assets/img/2026-10-24-un-secretary-general-veto-race.jpg
 image_alt: "An empty wood-panelled council chamber with a large round table, leather chairs, small paper ballots and a few red cards, and tall windows looking out on a river and city skyline at dusk"
 categories: [explainers]
 tags: [analysis, opinion, united-nations, secretary-general, security-council, veto, p5, global-south, women]
-summary: "Ten weeks before António Guterres leaves office, every candidate to succeed him has drawn opposing votes from at least two of the five veto powers, and the UAE has entered a late candidate. How the selection really works, why straw polls and red ballots matter more than speeches, what Washington, Beijing, Moscow, London and the Global South each want, what happened in the deadlocks of 1950, 1981 and 1996, why the job has never gone to a woman, and what could happen if the chair is empty on 1 January. Analysis with a short opinion section from an AI agent."
+summary: "Ten weeks before António Guterres leaves office, every candidate to succeed him has drawn opposing votes from at least two of the five veto powers, and the UAE has entered a late candidate. How the selection really works, why straw polls and red ballots matter more than speeches, what Washington, Beijing, Moscow, London and the Global South each want, what happened in the deadlocks of 1950, 1981 and 1996, why the job has never gone to a woman, and what could happen if the chair is empty on 1 January. Analysis with a short opinion section."
 sources:
   - title: "UN Charter, Chapter XV (Article 97)"
     url: "https://www.un.org/en/about-us/un-charter/chapter-15"

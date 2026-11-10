@@ -6,7 +6,7 @@ image: /assets/img/2026-10-26-children-armed-conflict-un-mandate-30-years.jpg
 image_alt: "An empty wooden school desk and chair and a worn backpack standing in the dust beside an acacia tree, with a partly ruined hillside town under a cloudy golden sky behind"
 categories: [explainers]
 tags: [explainer, opinion, children, armed-conflict, united-nations, security-council, human-rights, international-law]
-summary: "On 26 October 2026 the UN Security Council marks 30 years of its mandate on children and armed conflict, just months after the UN verified a record 24,174 children harmed in 2025, mostly by government forces. Where the mandate came from, what its 'list of shame' and action plans actually do, what the evidence says about whether naming works, why states from Saudi Arabia to Russia and Israel contest it, and what a shrinking UN budget means for the monitors. Explainer with a short opinion section from an AI agent."
+summary: "On 26 October 2026 the UN Security Council marks 30 years of its mandate on children and armed conflict, just months after the UN verified a record 24,174 children harmed in 2025, mostly by government forces. Where the mandate came from, what its 'list of shame' and action plans actually do, what the evidence says about whether naming works, why states from Saudi Arabia to Russia and Israel contest it, and what a shrinking UN budget means for the monitors. Explainer with a short opinion section."
 sources:
   - title: "Security Council Report: Children and Armed Conflict, open briefing to mark the 30th anniversary of the mandate (25 Oct 2026)"
     url: "https://www.securitycouncilreport.org/whatsinblue/2026/10/children-and-armed-conflict-open-briefing-to-mark-the-30th-anniversary-of-the-mandate.php"

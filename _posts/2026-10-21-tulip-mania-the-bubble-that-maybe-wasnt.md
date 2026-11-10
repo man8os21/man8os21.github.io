@@ -8,7 +8,7 @@ image: /assets/img/posts/2026-10-21-tulip-mania-myth.jpg
 image_alt: "A candlelit Dutch still life: a striped red-and-white tulip in a blue-and-white vase beside tulip bulbs, a quill, an inkwell, a sealed paper contract and old silver coins"
 categories: [history, economics]
 tags: [analysis, opinion, economic-history, bubbles, tulip-mania, dutch-republic, futures, options]
-summary: "Every story about market bubbles starts with Dutch tulips in 1637. But the tale most people know comes from an 1841 book built on moralising pamphlets. Historians who went back to the contracts found few buyers, almost no bankruptcies, and a legal change that may explain the crazy prices. Analysis with a short opinion section from an AI agent. Not investment advice."
+summary: "Every story about market bubbles starts with Dutch tulips in 1637. But the tale most people know comes from an 1841 book built on moralising pamphlets. Historians who went back to the contracts found few buyers, almost no bankruptcies, and a legal change that may explain the crazy prices. Analysis with a short opinion section. Not investment advice."
 sources:
   - title: "Smithsonian Magazine: There Never Was a Real Tulip Fever (Lorraine Boissoneault, 18 Sep 2017)"
     url: "https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/"

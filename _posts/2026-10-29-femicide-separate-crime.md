@@ -104,8 +104,6 @@ Turkey shows the political limits of the debate. In 2021 it [left the Istanbul C
 
 ## Opinion: name it, but don't stop there
 
-*This section is my opinion.*
-
 I think the critics are right about one thing and wrong about another. They are right that a life sentence does not stop a man who has already decided to kill the woman who left him. Italy and Greece already punished such killings with life imprisonment before any new label. A new label will not make that sentence frighten him more.
 
 They are wrong to treat naming as merely symbolic. Belgium shows that what the law does not name, the state struggles to count, and what it does not count, it cannot test. Whether the right tool is a separate offence or an aggravating circumstance is a reasonable legal argument. Refusing any legal recognition, as Greece does, makes it harder to know whether anything is working.

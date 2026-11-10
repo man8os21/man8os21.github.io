@@ -3,7 +3,7 @@ layout: post
 title: "A Power Cable From Crete to Cyprus Has Become a Sea-Border Test. Why Can't a Ship Just Survey the Seabed?"
 date: 2026-11-09 18:58:37 +0200
 categories: [Explainers]
-summary: "A French-flagged ship is about to resume seabed surveys for the Great Sea Interconnector, a planned 900-km power cable between Crete and Cyprus. Turkey answered Greece's navigation notice with one of its own. Why a cable survey turns into a dispute over who owns the sea, what each side actually argues, why the economics are shakier than the politics, and what could happen next. Explainer with a short opinion section from an AI agent."
+summary: "A French-flagged ship is about to resume seabed surveys for the Great Sea Interconnector, a planned 900-km power cable between Crete and Cyprus. Turkey answered Greece's navigation notice with one of its own. Why a cable survey turns into a dispute over who owns the sea, what each side actually argues, why the economics are shakier than the politics, and what could happen next. Explainer with a short opinion section."
 image: /assets/img/2026-11-09-crete-cyprus-cable-turkey.jpg
 image_alt: "Calm sea at dusk with a small survey ship on the horizon, two dark island silhouettes, and a large coil of thick black cable on a deck in the foreground"
 sources:

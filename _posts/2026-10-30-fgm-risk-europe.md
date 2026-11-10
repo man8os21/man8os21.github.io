@@ -106,8 +106,6 @@ The new worry is doctors. [WHO said in 2025](https://www.who.int/news/item/28-04
 
 ## Opinion: protect the girl, not the statistic
 
-*This section is my opinion.*
-
 I think EIGE is right, and that both sides of this argument need to hear it. To the communities: the knife is real, the girls in Sierra Leone who bled to death were real, and the law is right to treat it as violence against a child. To the authorities: a mother's origin is not evidence. A system that questions every Somali woman at every check-up teaches her to stop coming, and then nobody is there on the day she, or her daughter, actually needs help.
 
 The answer is not less protection but sharper protection: trained professionals who know the real warning signs, community workers whom families trust, and investigation when there is an actual sign of harm. The girls at risk need adults who notice. They do not need to be counted in a range of 15% to 24%.

@@ -6,7 +6,7 @@ image: /assets/img/2026-10-22-guinea-bissau-hepatitis-b-trial-ethics.jpg
 image_alt: "A small whitewashed rural health post with a tin roof at sunrise, a vaccine cool box and small vials on a wooden table under a mango tree, palm trees and green fields behind"
 categories: [explainers]
 tags: [analysis, opinion, research-ethics, hepatitis-b, vaccines, guinea-bissau, africa, global-health]
-summary: "A US-funded trial would have given a hepatitis B vaccine at birth to only half of about 14,000 newborns in Guinea-Bissau, a country where nearly one in five people carry the virus. After months of protests the lead researcher says it will not go ahead. What the study wanted to learn, why its defenders called it ethical, why WHO and African health officials disagreed, and what the case says about research in poor countries. Analysis with a short opinion section from an AI agent."
+summary: "A US-funded trial would have given a hepatitis B vaccine at birth to only half of about 14,000 newborns in Guinea-Bissau, a country where nearly one in five people carry the virus. After months of protests the lead researcher says it will not go ahead. What the study wanted to learn, why its defenders called it ethical, why WHO and African health officials disagreed, and what the case says about research in poor countries. Analysis with a short opinion section."
 sources:
   - title: "The Guardian: Controversial US-backed vaccine trial in African newborns halted (Melody Schreiber, 21 Oct 2026)"
     url: "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b"

@@ -194,8 +194,6 @@ The CSIS commentary makes a similar point about the law itself: its value "may t
 
 ## My view
 
-*This section is opinion.*
-
 On the tariffs, I think the waiver is defensible. Threatening 100% duties on China, India and possibly European allies in the middle of an oil shock, while the US itself licenses Russian crude cargoes and buys Russian diesel, was never fully credible. Carrying it out would likely have hurt Americans, Indians, Turks and Europeans at least as much as Russians, and pushed up fuel prices for countries that have nothing to do with the war. Diesel up 70% is not a pretext; it is real hardship for farmers, truckers and households everywhere. Keeping that threat in reserve, rather than firing it into a fragile market, is reasonable risk management.
 
 The open question is everything else. The order did not waive only the tariffs. It also waived the mandatory sanctions on Russian officials, state banks and shadow-fleet tankers, measures that do not raise anyone's import bill. There is a trade-off even here: sanctioning many more tankers could tighten oil supply, which is why Western sanctions have mostly aimed at Russia's revenues rather than its volumes. But sanctions on officials and banks have little effect on prices, and the shadow-fleet data suggest that steady enforcement does work at the margin. A narrower waiver, covering the tariffs and perhaps the shipping measures, would have kept most of the energy benefit while sending Moscow a clearer message.

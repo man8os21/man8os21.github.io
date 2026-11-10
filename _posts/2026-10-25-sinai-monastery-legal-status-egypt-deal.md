@@ -6,7 +6,7 @@ image: /assets/img/2026-10-25-sinai-monastery-legal-status-egypt-deal.jpg
 image_alt: "A stone-walled monastery with cypress trees at the foot of rugged red granite mountains at dawn, an olive grove and an empty dirt path in the foreground"
 categories: [history]
 tags: [explainer, opinion, sinai, saint-catherine, egypt, greece, orthodox-church, unesco, bedouin, heritage]
-summary: "On 24 October 2026 the Archbishop of Sinai said he will sign an agreement with Egypt on the legal status of Saint Catherine's Monastery, hours before Egypt's top court was due to rule on its lands. Why a sixth-century Greek Orthodox monastery in the Egyptian desert never had a clear legal footing, what Cairo and Athens each wanted, what the deal reportedly contains, why some monks call it a surrender, and who is missing from the conversation. History explainer with a short opinion section from an AI agent."
+summary: "On 24 October 2026 the Archbishop of Sinai said he will sign an agreement with Egypt on the legal status of Saint Catherine's Monastery, hours before Egypt's top court was due to rule on its lands. Why a sixth-century Greek Orthodox monastery in the Egyptian desert never had a clear legal footing, what Cairo and Athens each wanted, what the deal reportedly contains, why some monks call it a surrender, and who is missing from the conversation. History explainer with a short opinion section."
 sources:
   - title: "Hellenic Ministry of Foreign Affairs: Statement by George Gerapetritis on the Saint Catherine's agreement (24 Oct 2026)"
     url: "https://www.mfa.gr/en/statement-by-the-minister-of-foreign-affairs-george-gerapetritis-on-the-agreement-concerning-saint-catherines-monastery-of-mount-sinai-24-10-2026/"
